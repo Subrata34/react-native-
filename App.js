@@ -4,9 +4,11 @@ import { SafeAreaView } from "react-native-web";
 
 export default function App() {
   return (
-    <Androidsafearea>
-      <Text>This is a text </Text>
-    </Androidsafearea>
+    
+      <View>
+        <Text>this is native </Text>
+      </View>
+    
   );
 }
 
