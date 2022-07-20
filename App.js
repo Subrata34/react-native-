@@ -6,7 +6,7 @@ export default function App() {
   return (
     
       <View>
-        <Text>this is native </Text>
+        <Text>this is a native </Text>
       </View>
     
   );
